@@ -1,1 +1,0 @@
-def sum_of_positive(arr): return sum(x for x in arr if x > 0)

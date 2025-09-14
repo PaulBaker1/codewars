@@ -1,3 +1,8 @@
 {
-    "editor.fontSize": 16
+    "editor.fontSize": 16,
+    "java.project.sourcePaths": [
+        "8-kyu/java/Find the capitals",
+        "8-kyu/java/1. Find the capitals",
+        "8-kyu/java/2. DNA to RNA Conversion"
+    ]
 }
